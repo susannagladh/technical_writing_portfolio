@@ -1,5 +1,5 @@
 # How to Digitize Traditional Artwork for High-Quality Prints  
-In this beginner-friendly guide you will learn how to create a high-quality digital version of traditional artwork for printing. The guide is intended for artists who want to reproduce their artwork as prints or use it for print on demand services.
+In this beginner-friendly guide you will learn how to create a high-quality digital version of traditional artwork for printing. The guide is for artists who want to reproduce their artwork as prints or use it for print-on-demand services.
 
 After completing this guide, you will be able to choose an appropriate digitization method and create a print-ready digital image.
 
@@ -11,8 +11,8 @@ The exact requirements depend on whether you choose to scan or photograph the ar
 * Original artwork
 * A scanner or digital camera
 * A computer
-* Image editing software (the freely included programs on your computer can be sufficcient)
-* Adequate lighting or a wind protected space outside (for photography) 
+* Image editing software, such as a built-in photo editor
+* Adequate lighting or a wind-protected space outside
 * Sufficient storage space for image files
 * A tripod for camera stability (optional but highly recommended)
 
@@ -58,40 +58,82 @@ Follow these steps to create a high-quality digital image of your artwork. Good 
 Many artists prefer to photograph artwork outdoors. For the best results, choose a shaded location or photograph on a cloudy day to achieve even lighting and reduce glare. 
 
 Use the following steps to photograph your artwork
-1. **Prepare the Artwork**  
+### 1. Prepare the Artwork
 Place the artwork in a location with even lighting. Remove any dust, dirt, or loose debris from the surface.  
 For the best results, position the artwork vertically on a wall or easel.
 
-2. **Set Up the Lighting**
-3. Use bright, even lighting across the entire artwork. Avoid direct sunlight, which can create glare and uneven shadows. If possible, use two light sources positioned on either side of the artwork.
+### 2. Set Up the Lighting
+Use bright, even lighting across the entire artwork. Avoid direct sunlight, which can create glare and uneven shadows. If possible, use two light sources positioned on either side of the artwork.
 
-4. **Position the Camera**  
-Mount the camera on a tripod and place it directly in front of the artwork.
-Position the camera so that it faces the artwork directly. Tilting the camera can distort the image and make the artwork appear trapezoidal instead of rectangular.
+### 3. Position the Camera
+Mount the camera on a tripod and place it directly in front of the artwork. Make sure the camera faces the artwork directly. Tilting the camera can distort the image and make the artwork appear trapezoidal instead of rectangular.
 
-5. **Frame the Artwork**  
-Adjust the camera position so that the artwork fills most of the frame while remaining fully visible.
-Leave a small margin around the edges to avoid accidentally cropping part of the artwork.
+The image below demonstrates a correct camera setup.
 
-6. **Capture the Image**  
+<p align="center">
+  <img src="images/camera-setup.png" alt="Correct and incorrect camera alignment when photographing artwork" width="500">
+</p>
+
+<p align="center">
+  <em>Figure 1. Keep the camera parallel to the artwork to avoid perspective distortion.</em>
+</p>
+
+Adjust the camera distance so that the artwork fills most of the frame while remaining fully visible. Leave a small margin around the edges to avoid accidentally cropping part of the artwork.
+
+### 4. Capture the Image
 Focus carefully on the artwork and take several photographs.  
 Review the images on your camera or computer to check for blur, glare, shadows, and to ensure the artwork is fully visible and correctly framed.
 
-7. **Select the Best Image**  
+### 5. Select the Best Image
 Choose the sharpest image with the most accurate colors and even lighting.  
 If necessary, crop the image to remove the background and align the edges of the artwork.
 
 > Tip: Take multiple photographs even if the first image looks good. Small differences in focus and lighting can significantly affect print quality.
 
-
-
-
 ## Scan the Artwork
-The process will depend on what kind of scanner you have. In general there is a software program for your computer that you will use to adjust parameters and start the scanning. 
+The scanning process depends on the type of scanner and scanning software you use. In most cases, you use a computer program to adjust the scan settings and start the scan.
+
+> Note: This section describes the general scanning process. Your scanner software may use different names for the same settings.
 
 Follow these steps to scan your artwork:
-1. **Prepare the Artwork**
-2. **Adjust the Parameters**
-3. **Scan**
+
+### 1. Prepare the Artwork
+Make sure the artwork is clean and dry before placing it on the scanner bed. Align the artwork with the edge of the scanner to make cropping easier.
+
+### 2. Adjust the Scan Settings
+Choose a high-resolution setting and save the file in a format suitable for editing and printing. If your scanner software has a preview feature, use it to check that the artwork is straight, fully visible, and correctly positioned.
+
+### 3. Scan the Artwork
+Start the scan and review the image on your computer. Check that the image is sharp and free from visible dust or streaks.
+
+## Edit the Image
+After digitizing the artwork, use image editing software to prepare the file for printing. Most computers include a basic photo editor that you can use for simple adjustments. For more control, use professional software such as Adobe Photoshop, Affinity Photo, or GIMP.
+
+Use the software to:
+
+* Crop the image to remove the background.
+* Straighten the artwork if needed.
+* Adjust brightness, contrast, and color balance.
+* Remove dust, spots, or unwanted marks.
+* Check that the image matches the original artwork as closely as possible.
+
+Avoid making changes that alter the artwork itself. The goal is to create an accurate digital version of the original artwork, not to improve or reinterpret it.
+
+## Export the File
+Before printing, check the file requirements for your printer or print-on-demand service. Requirements may include image size, resolution, file format, and color profile.
+
+Save a copy of the edited image before exporting the final file. This lets you make changes later without editing the original scan or photograph.
 
 ## Troubleshooting
+
+Use this section to solve common problems after scanning or photographing your artwork.
+
+| Problem | Possible cause | Solution |
+|----------|----------------|----------|
+| The image looks blurry | The camera moved, the focus was incorrect, or the scanner glass was dirty. | Use a tripod, check the focus, or clean the scanner glass and try again. |
+| The colors do not match the original artwork | The lighting, white balance, monitor, or scan settings may affect the colors. | Use even lighting, avoid direct sunlight, and adjust brightness, contrast, and color balance during editing. |
+| The artwork looks distorted | The camera was tilted instead of facing the artwork directly. | Retake the photo with the camera parallel to the artwork. See [Position the Camera](#3-position-the-camera). |
+| The image has glare or reflections | Direct light or flash reflected off the artwork surface. | Use soft, even lighting from the sides and avoid using flash. |
+| The image has dust, spots, or marks | Dust was present on the artwork, scanner glass, or camera lens. | Clean the artwork and equipment before digitizing. Remove small marks during editing if needed. |
+| Part of the artwork is cropped | The artwork was too close to the edge of the frame or scanner area. | Leave a small margin around the artwork and crop the image later during editing. |
+| The file quality is too low for printing | The image was captured or saved at a low resolution. | Use a higher resolution setting and avoid heavily compressed files when possible. |
