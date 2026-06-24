@@ -101,7 +101,7 @@ Follow these steps to scan your artwork:
 Make sure the artwork is clean and dry before placing it on the scanner bed. Align the artwork with the edge of the scanner to make cropping easier.
 
 ### 2. Adjust the Scan Settings
-Choose a high-resolution setting and save the file in a format suitable for editing and printing. If your scanner software has a preview feature, use it to check that the artwork is straight, fully visible, and correctly positioned.
+Choose a high-resolution setting and save the file in a format suitable for editing and printing. If your scanner software has a preview feature, use it to check that the artwork is fully visible and correctly positioned.
 
 ### 3. Scan the Artwork
 Start the scan and review the image on your computer. Check that the image is sharp and free from visible dust or streaks.
