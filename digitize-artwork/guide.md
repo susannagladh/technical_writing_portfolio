@@ -77,7 +77,9 @@ Place the artwork in a location with even lighting. Remove any dust, dirt, or lo
 For the best results, position the artwork vertically on a wall or easel.
 
 ### 2. Set Up the Lighting
-Use bright, even lighting across the entire artwork. Avoid direct sunlight, which can create glare and uneven shadows. If possible, use two light sources positioned on either side of the artwork.
+Use bright, even lighting across the entire artwork. Avoid direct sunlight, which can create glare and uneven shadows. 
+
+If possible, use two light sources positioned on either side of the artwork.
 
 ### 3. Position the Camera
 Mount the camera on a tripod and place it directly in front of the artwork. Make sure the camera faces the artwork directly. Tilting the camera can distort the image and make the artwork appear trapezoidal instead of rectangular.
@@ -138,8 +140,15 @@ Use the software to make the following adjustments:
 * Adjust brightness, contrast, and color balance.
 * Remove dust, spots, or unwanted marks.
 
-After editing, check that the image matches the original artwork as closely as possible. Avoid making changes that alter the artwork itself. The goal is to create an accurate digital version of the original, not to improve or reinterpret it.
+<p align="center">
+  <img src="images/editing.png" alt="alt="Before and after example of a photographed artwork. The before image is tilted and includes background, while the after image is cropped and straightened."" width="500">
+</p>
 
+<p align="center">
+  <em>Figure 2. Crop and straighten the image to remove the background and align the artwork edges.</em>
+</p>
+
+After editing, check that the image matches the original artwork as closely as possible. Avoid making changes that alter the artwork itself. The goal is to create an accurate digital version of the original, not to improve or reinterpret it.
 
 ## Export the File
 Before printing, check the file requirements for your printer or print-on-demand service. Requirements may include image size, resolution, file format, and color profile.
