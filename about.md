@@ -39,4 +39,4 @@ I enjoy turning complex information into clear, useful content. This can include
 
 ## Contact
 
-You can find me on [GitHub](https://github.com/susannagladh) and [LinkedIn](linkedin.com/in/susanna-ahlberg-3356b7113).
+You can find me on [GitHub](https://github.com/susannagladh) and [LinkedIn](https://linkedin.com/in/susanna-ahlberg-3356b7113).
