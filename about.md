@@ -1,5 +1,7 @@
 # About me
 
+[Home](./) | [Selected work](./#selected-work) | [GitHub](https://github.com/susannagladh) | [LinkedIn](https://linkedin.com/in/susanna-ahlberg-3356b7113)
+
 Hi, I'm Susanna Ahlberg.
 
 I am a former software developer with a passion for writing and communication. My background in software development helps me understand technical systems, while my interest in language, structure and learning helps me explain complex information clearly.
