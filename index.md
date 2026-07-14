@@ -25,7 +25,7 @@ This project focused on making technical concepts easier to understand for a non
 
 My background in software development helps me understand technical systems, while my interest in writing helps me explain them clearly to different audiences.
 
-[Learn more about me](./about)
+[Learn more about me](./about/)
 
 ## Contact
 
