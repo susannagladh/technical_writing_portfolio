@@ -12,7 +12,7 @@ A step-by-step Markdown guide for artists who want to prepare traditional artwor
 
 This sample demonstrates instructional writing, clear structure, Markdown formatting and audience-focused documentation.
 
-[Read the guide](./digitize-artwork/)
+[View the case study](./digitize-artwork/)
 
 ### Internal Technical Enablement Guide for Recruiters
 
