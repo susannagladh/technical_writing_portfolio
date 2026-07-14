@@ -8,7 +8,7 @@ The portfolio includes selected writing samples, case studies and documentation 
 
 Visit the published portfolio here:
 
-[Technical Writing Portfolio](https://susannagladh.github.io/REPO-NAME/)
+[Technical Writing Portfolio](https://susannagladh.github.io/technical_writing_portfolio/)
 
 ## Contents
 
