@@ -7,11 +7,25 @@ I am a former software developer with a passion for writing and communication. W
 ## Selected work
 
 ### How to Digitize Traditional Artwork for High-Quality Prints
-A step-by-step Markdown guide for preparing traditional artwork for high-quality digital prints.
+
+A step-by-step Markdown guide for artists who want to prepare traditional artwork for high-quality digital prints.
+
+This sample demonstrates instructional writing, clear structure, Markdown formatting and audience-focused documentation.
 
 [Read the guide](./digitize-artwork/)
 
 ### Internal Technical Enablement Guide for Recruiters
+
 A confidential internal guide explaining modern software development, technical roles and business value for recruiters and sales consultants.
 
-Full document not published due to confidentiality.
+This project focused on making technical concepts easier to understand for a non-technical audience. The full document is not published due to confidentiality.
+
+[Read the case study](./recruiter-guide-case-study.md)
+
+## About me
+
+My background in software development helps me understand technical systems, while my interest in writing helps me explain them clearly to different audiences.
+
+## Contact
+
+You can contact me through LinkedIn or GitHub.
