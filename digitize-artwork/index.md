@@ -1,6 +1,5 @@
 # How to Digitize Traditional Artwork for High-Quality Prints
-
-## Overview
+[Home](../) | [About me](../about.md) | [Selected work](../#selected-work)
 
 This project is a step-by-step guide for artists who want to prepare traditional artwork for high-quality digital prints.
 
@@ -36,4 +35,4 @@ I planned, structured and wrote the guide in Markdown. I also organized the cont
 
 ## Read the full guide
 
-[Read the full guide](./guide.md)
+[Read the full guide](./guide.md) | [Back to portfolio](../)
