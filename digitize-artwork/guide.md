@@ -4,7 +4,7 @@ In this beginner-friendly guide, you will learn how to create a high-quality dig
 After completing this guide, you will be able to:
 
 * Choose an appropriate digitization method for your artwork.
-* Create a sharp, print-ready digital image.
+* Create a sharp, digital image suitable for printing.
 * Crop and straighten the image.
 * Adjust the colors to match the original artwork as closely as possible.
 * Export a file that meets the requirements of your printer or print-on-demand service.
@@ -12,6 +12,8 @@ After completing this guide, you will be able to:
 This guide covers scanning and photographing artwork. It does not cover camera or printer purchases, advanced color management, print production, or selling prints.
 
 ## What You Need
+Before you begin, decide whether scanning or photographing is the best method for your artwork. The right method depends on the artwork’s size, surface, texture, and the equipment you have available.
+
 The exact requirements depend on whether you choose to scan or photograph the artwork. For help selecting a method, see [Choose a Digitization Method](#choose-a-digitization-method). 
 
 Most artists will need the following:
@@ -141,7 +143,7 @@ Use the software to make the following adjustments:
 * Remove dust, spots, or unwanted marks.
 
 <p align="center">
-  <img src="images/editing.png" alt="alt="Before and after example of a photographed artwork. The before image is tilted and includes background, while the after image is cropped and straightened."" width="500">
+  <img src="images/editing.png" alt="Before and after example of a photographed artwork. The before image is tilted and includes background, while the after image is cropped and straightened."" width="500">
 </p>
 
 <p align="center">
@@ -151,7 +153,14 @@ Use the software to make the following adjustments:
 After editing, check that the image matches the original artwork as closely as possible. Avoid making changes that alter the artwork itself. The goal is to create an accurate digital version of the original, not to improve or reinterpret it.
 
 ## Export the File
-Before printing, check the file requirements for your printer or print-on-demand service. Requirements may include image size, resolution, file format, and color profile.
+Before exporting, check the following:
+
+* Required file format, such as JPEG, PNG, TIFF, or PDF.
+* Minimum resolution or DPI.
+* Required image dimensions.
+* Maximum file size.
+* Color profile requirements, if specified.
+* Whether the file should include bleed or margins.
 
 Save a copy of the edited working file before exporting the final file. This lets you make changes later without editing the original scan or photograph.
 
