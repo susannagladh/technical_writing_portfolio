@@ -2,19 +2,18 @@
 
 This repository contains the source files for my technical writing portfolio.
 
-The portfolio includes selected writing samples, case studies and documentation examples that show my work with technical communication, structured writing and making complex information easier to understand.
+The portfolio includes selected writing samples and case studies that demonstrate my work with technical communication, structured documentation and making complex information easier to understand.
 
 ## View the portfolio
 
-Visit the published portfolio here:
-
-[Technical Writing Portfolio](https://susannagladh.github.io/technical_writing_portfolio/)
+[Visit the published portfolio](https://susannagladh.github.io/technical_writing_portfolio/)
 
 ## Contents
 
 - `index.md` – portfolio homepage
-- `work-samples/` – selected writing samples and case studies
-- `assets/` – images and other supporting files
+- `digitize-artwork/` – case study and full guide for digitizing traditional artwork
+- `software-guide-for-non-technical-professionals/` – confidential case study for an internal software guide
+- `README.md` – repository information
 
 ## About
 
