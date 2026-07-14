@@ -1,6 +1,6 @@
 # Internal Technical Enablement Guide for Recruiters
 
-## Overview
+[Home](../) | [About me](../about.md) | [Selected work](../#selected-work)
 
 This project was an internal educational guide designed to help recruiters and sales consultants understand modern software development, technical roles, common terminology and the business value of technical competence.
 
@@ -104,3 +104,5 @@ This case study demonstrates my ability to:
 This was internal company material. For that reason, the full guide, company-specific context and original source files are not published.
 
 A short anonymized excerpt or summary can be provided on request.
+
+[Back to portfolio](../)
