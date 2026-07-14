@@ -1,4 +1,5 @@
 # Technical Writing Portfolio
+[About me](./about.md) | [Selected work](#selected-work) | [Contact](#contact)
 
 Hi, I'm Susanna Ahlberg.
 
@@ -29,4 +30,4 @@ My background in software development helps me understand technical systems, whi
 
 ## Contact
 
-You can contact me through LinkedIn or GitHub.
+You can contact me through [GitHub](https://github.com/susannagladh) or [LinkedIn](https://linkedin.com/in/susanna-ahlberg-3356b7113)
