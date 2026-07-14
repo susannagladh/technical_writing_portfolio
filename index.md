@@ -13,7 +13,7 @@ This sample demonstrates instructional writing, clear structure, Markdown format
 
 [View the case study](./digitize-artwork/)
 
-### Internal Technical Enablement Guide for Recruiters
+### Internal Software Guide for Non-Technical Professionals
 
 A confidential internal guide explaining modern software development, technical roles and business value for recruiters and sales consultants.
 
