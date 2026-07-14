@@ -7,8 +7,7 @@ I am a former software developer with a passion for writing and communication. W
 ## Selected work
 
 ### How to Digitize Traditional Artwork for High-Quality Prints
-
-A step-by-step Markdown guide for artists who want to prepare traditional artwork for high-quality digital prints.
+A beginner-friendly Markdown guide that helps artists digitize traditional artwork for printing or print-on-demand services.
 
 This sample demonstrates instructional writing, clear structure, Markdown formatting and audience-focused documentation.
 
