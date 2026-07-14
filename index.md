@@ -19,7 +19,7 @@ A confidential internal guide explaining modern software development, technical 
 
 This project focused on making technical concepts easier to understand for a non-technical audience. The full document is not published due to confidentiality.
 
-[Read the case study](./recruiter-guide-case-study.md)
+[View the case study](./software-guide-for-non-technical-professionals/)
 
 ## About me
 
