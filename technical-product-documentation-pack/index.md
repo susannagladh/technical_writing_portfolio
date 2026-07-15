@@ -2,17 +2,17 @@
 
 [Home](../) | [About me](../about.md) | [Selected work](../#selected-work)
 
-## Overview
+> Note: FlowDesk Admin is a fictional product created for this portfolio sample.
 
-This project is a sample documentation pack for a fictional SaaS admin product.
+This project is a sample documentation pack for a SaaS admin product.
 
 The purpose of the project is to demonstrate how technical documentation can support users, support teams, customer success, product teams and internal knowledge-sharing.
 
-The documentation pack is based on a fictional product called **FlowDesk Admin**, an admin portal used to manage users, roles and notifications in a SaaS environment.
+The documentation pack is based on **FlowDesk Admin**, a fictional web-based admin portal for managing users, roles and notifications in a SaaS environment.
 
 ## Product scenario
 
-FlowDesk Admin is a fictional web-based admin tool used by customer administrators and internal support teams.
+Customer administrators and internal support teams use FlowDesk Admin to manage account access and notification settings.
 
 The product allows users to:
 
@@ -23,7 +23,7 @@ The product allows users to:
 
 ## Audience
 
-The documentation is written for several related audiences:
+This documentation is for several related audiences:
 
 - customer administrators
 - support specialists
@@ -31,13 +31,13 @@ The documentation is written for several related audiences:
 - application specialists
 - internal product and operations teams
 
-The documentation assumes that the reader is familiar with basic web applications, but does not assume technical expertise in software development.
+The documentation assumes that readers are familiar with basic web applications. It does not assume technical expertise in software development.
 
 ## Purpose
 
-The purpose of this documentation pack is to show how different types of technical content can work together to support a product.
+This documentation pack shows how different types of technical content can work together to support a product.
 
-The pack is intended to demonstrate:
+The pack demonstrates:
 
 - user guidance
 - troubleshooting support
@@ -48,10 +48,13 @@ The pack is intended to demonstrate:
 
 ## Documentation samples
 
-This documentation pack will include:
+This documentation pack includes:
 
-- **User guide** – step-by-step instructions for common admin tasks
-- **Troubleshooting guide** – support-oriented guidance for common problems
+- [**User guide**](./user-guide.md) – step-by-step instructions for common admin tasks
+- [**Troubleshooting guide**](./troubleshooting-guide.md) – support-oriented guidance for common problems
+
+Planned samples:
+
 - **Release notes** – a concise product update written for users and internal teams
 - **Requirements brief** – a short example of documenting a product need
 - **UX copy sample** – examples of labels, helper text and error messages
