@@ -2,19 +2,19 @@
 
 [Home](../) | [About me](../about.md) | [Selected work](../#selected-work)
 
-FlowDesk Admin is a fictional web-based admin portal used to manage users, roles and notification settings in a SaaS product.
+FlowDesk Admin is a fictional web-based admin portal for managing users, roles and notification settings in a SaaS product.
 
 This guide explains how customer administrators can perform common admin tasks, such as inviting users, assigning roles, deactivating accounts and updating notification settings.
 
 ## Who this guide is for
 
-This guide is written for customer administrators who manage users in FlowDesk Admin.
+This guide is for customer administrators who manage users in FlowDesk Admin.
 
-You do not need a technical background to use this guide, but you should have administrator access to FlowDesk Admin.
+You do not need a technical background, but you should have administrator access to FlowDesk Admin.
 
 ## Before you begin
 
-Make sure that you have:
+You need:
 
 - an active FlowDesk Admin account
 - administrator permissions
@@ -24,7 +24,7 @@ Make sure that you have:
 ## User roles
 
 FlowDesk Admin uses roles to control what each user can view and do.
-In this guide, **user** refers to a person with a FlowDesk account. **Role** refers to the permission level assigned to that person.
+In this guide, **user** means a person with a FlowDesk account. **Role** means the permission level assigned to that person.
 
 | Role | Description |
 |---|---|
@@ -37,7 +37,7 @@ In this guide, **user** refers to a person with a FlowDesk account. **Role** ref
 
 ## Invite a new user
 
-Use this task when you want to give a new person access to FlowDesk.
+Use this task to give a new person access to FlowDesk.
 
 ### Steps
 
@@ -56,7 +56,7 @@ The invited user appears in the user list with the status **Pending** until they
 
 ## Change a user role
 
-Use this task when a user needs more or less access in FlowDesk.
+Use this task to change a user’s access level in FlowDesk.
 
 ### Steps
 
@@ -74,7 +74,7 @@ The user’s permissions are updated immediately.
 
 ## Deactivate a user
 
-Use this task when a user should no longer have access to FlowDesk, for example when they leave the organization or change responsibilities.
+Use this task to remove a user's access to FlowDesk, for example when they leave the organization or change responsibilities.
 
 ### Steps
 
@@ -92,7 +92,7 @@ The user can no longer sign in to FlowDesk. Their historical activity remains vi
 
 ## Reactivate a user
 
-Use this task when a previously deactivated user needs access again.
+Use this task to restore access for a previously deactivated user.
 
 ### Steps
 
@@ -152,7 +152,7 @@ User statuses include:
 | Status | Meaning |
 |---|---|
 | Active | The user can sign in and use FlowDesk. |
-| Pending | The user has been invited but has not accepted the invitation. |
+| Pending | The user has not accepted the invitation. |
 | Inactive | The user has been deactivated. |
 
 ## Best practices
