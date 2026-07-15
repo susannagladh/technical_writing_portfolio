@@ -169,7 +169,6 @@ Use these recommendations to keep your FlowDesk account organized and secure:
 ## Related documentation
 
 - [Troubleshooting guide](./troubleshooting-guide.md)
-- [Release notes](./release-notes.md)
 - [UX copy sample](./ux-copy-sample.md)
 
 ---
