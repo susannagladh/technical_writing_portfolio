@@ -22,6 +22,14 @@ This project focused on making technical concepts easier to understand for a non
 
 [View the case study](./software-guide-for-non-technical-professionals/)
 
+### Technical Product Documentation Pack
+
+A sample documentation pack for **FlowDesk Admin**, a fictional SaaS admin product.
+
+This case study demonstrates user-focused product documentation, troubleshooting support, structured knowledge management and clear communication for both customer-facing and internal audiences.
+
+[View the case study](./technical-product-documentation-pack/)
+
 ## About me
 
 My background in software development helps me understand technical systems, while my interest in writing helps me explain them clearly to different audiences.
