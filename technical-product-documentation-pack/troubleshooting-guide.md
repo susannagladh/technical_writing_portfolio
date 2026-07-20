@@ -215,7 +215,6 @@ When contacting support, include:
 ## Related documentation
 
 - [User guide](./user-guide.md)
-- [Release notes](./release-notes.md)
 - [UX copy sample](./ux-copy-sample.md)
 
 ---
