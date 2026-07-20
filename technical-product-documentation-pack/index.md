@@ -52,12 +52,12 @@ This documentation pack includes:
 
 - [**User guide**](./user-guide.md) – step-by-step instructions for common admin tasks
 - [**Troubleshooting guide**](./troubleshooting-guide.md) – support-oriented guidance for common problems
+- [**UX copy sample**](./ux-copy-sample.md) – examples of labels, helper text and error messages
 
 Planned samples:
 
 - **Release notes** – a concise product update written for users and internal teams
 - **Requirements brief** – a short example of documenting a product need
-- **UX copy sample** – examples of labels, helper text and error messages
 
 ## My role
 
@@ -99,4 +99,4 @@ This is a fictional portfolio project created to demonstrate technical communica
 
 ---
 
-[Back to portfolio](../)
+[Back to portfolio](../) |  [User guide](./user-guide.md)
